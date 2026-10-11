@@ -232,3 +232,4 @@ Confirm the path is correct and that the video codec is supported by your OpenCV
 ## License
 
 Add the license required by your course or project before publishing this repository.
+"# face-detection-tracking-tp" 
