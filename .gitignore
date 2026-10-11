@@ -1,0 +1,6 @@
+# Input video used by the TP
+/video.mp4
+
+# Generated results and face crops
+/out/
+.venv/
